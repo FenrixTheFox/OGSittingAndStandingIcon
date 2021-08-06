@@ -9,7 +9,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 [assembly: MelonGame("VRChat", "VRChat")]
-[assembly: MelonInfo(typeof(OGSittingAndStandingIconMod), "OG Sitting And Standing Icon", "1.0.1", "Fenrix")]
+[assembly: MelonInfo(typeof(OGSittingAndStandingIconMod), "OG Sitting And Standing Icon", "1.0.2", "Fenrix")]
 
 namespace OGSittingAndStandingIcon
 {
